@@ -1,3 +1,7 @@
 Juan
-El Pepe
+<<<<<<< HEAD
+El Pepe y Sech
+=======
+El Pepe y Sech
+>>>>>>> c63f45a427c79df3d3d0085cd6631bfb0f7b8882
 María, Luis y Maxi
